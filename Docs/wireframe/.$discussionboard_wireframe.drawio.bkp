@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2024-05-05T06:59:31.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="Vq1w8wzU2Ai_c7aVmY9B" version="21.7.5" type="device">
+  <diagram name="Page-1" id="zMSyuwE694D3PH5XK4PA">
+    <mxGraphModel dx="1260" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="640" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Running Event New Zealand&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="60" y="12" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;https://www.runningeventnewzealand.co.nz&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry y="180" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-5" value="HOME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=none;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="10" y="195" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-6" value="EVENT" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="80" y="195" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-7" value="REGISTER" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="155" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-8" value="DISCUSSION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="240" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-11" value="© Created By Katherine mulder. All rights reserved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="70" y="680" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-14" value="Plan and manage your running events with ease&lt;br&gt;Click the book button to start your journey!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="155" y="260" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-21" value="Photo" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.photo;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="50" y="375" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-22" value="Photo" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.photo;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="250" y="375" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-23" value="Photo" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.photo;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="450" y="375" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-24" value="Description&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="82.5" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-27" value="Description&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="290" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-28" value="Description&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="490" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Book&amp;nbsp;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="250" y="570" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Welcome to the running event New Zealand&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lfn7fyiCu-YNdCRudOLg-1" vertex="1">
+          <mxGeometry x="137.5" y="120" width="365" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfn7fyiCu-YNdCRudOLg-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.899;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.997;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lfn7fyiCu-YNdCRudOLg-1" target="lfn7fyiCu-YNdCRudOLg-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
