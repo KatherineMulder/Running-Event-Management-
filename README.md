@@ -1,67 +1,63 @@
-# Running Event New Zealand
+### Project Overview
 
-This project focuses on building a dynamic website for managing and booking running events across New Zealand. 
-It uses PHP, Bootstrap, CSS, HTML,
-and the Laravel PHP framework to construct a robust full-stack application with MySQL integration.
+The "Running Event New Zealand" web application is designed to manage and 
+book running events across New Zealand.
+It uses modern web technologies to 
+provide a responsive and database-driven platform. 
+The application leverages Bootstrap, HTML, PHP, and the Laravel PHP framework for its development,
+ensuring robust functionality and efficient data management.
+
+### Core Functionalities
+
+The application includes the following major functionalities:
+
+1. **Authentication**: 
+   - User registration and account activation
+   - Login and logout functionality
+   - Profile management, including password updates
+   - Secure storage of user accounts in the database
+
+2. **Event Booking**: 
+   - Display of available running events with categories
+   - Event booking functionality with a "Book Now" option
+   - Search and filter capabilities for exploring events
+
+3. **Discussion Board**: 
+   - A forum for users to post messages, share reviews, feedback, and questions
+   - Display of threads and messages for both registered and unregistered users
+   - Management of messages by users
+
+4. **Admin Dashboard**: 
+   - A comprehensive dashboard for administrators
+   - Full CRUD (Create, Read, Update, Delete) operations on users, events, and messages
+   - Overview of website activities for quick reference
+
+### Execution and Technologies
+
+This web application is built using the Laravel PHP framework, chosen for its clear code organization, ease of updates, maintenance, and built-in testing features. The project includes:
+
+- **Frontend**: HTML, Bootstrap, JavaScript
+- **Backend**: PHP, Laravel PHP Framework
+- **Database**: MySQL
+- **Tools and Platforms**: Composer, Git, PHPUnit, phpMyAdmin
+
+### Project Requirements and Specifications
+
+The project requirements include:
+
+- A dynamic and responsive web design
+- Database-driven functionality
+- Public, private, and administrative access domains
+- Comprehensive data validation and error control
+
+### Accessibility and Deployment
+
+The application is designed with accessibility in mind, 
+catering to public users (browsing events and messages), 
+private users (booking events and managing profiles), 
+and admin users (managing content and users). 
+The final web application will be deployed on a local WAMPServer 
+installation, online.
 
 
-## Introduction
-
-The website "Running Event New Zealand" comprises four key models: authentication, event booking, discussion board, and admin dashboard.
-
-1. **Authentication Model**: Handles user login and registration, ensuring secure access to the website's features.
-2. **Event Booking Model**: Facilitates the process of booking events, providing users with the ability to reserve their spots for desired events.
-3. **Discussion Board Model**: Enables users to engage in discussions, post messages, and interact with other participants, fostering community engagement.
-4. **Admin Dashboard Model**: Empowers administrators with tools to manage website content, user accounts, events, and discussions, ensuring smooth operations and effective oversight.
-
-These models work in tandem to deliver a comprehensive and functional experience for both users and administrators, aligning with the website's objectives and requirements.
-
-## Key Functionalities
-
-### Homepage
-
-- Display events in three columns with title, description, and photo.
-- Limit to three events per category with a "More" button for additional events.
-- "More" button directs users to the event page.
-- Ensure uniform design and functionalities for all users.
-
-### Event Page
-
-- Allow users to book events via the "Book Now" buttons.
-- Provide search and category functions for user exploration.
-- Design the page for straightforward content viewing and filtering.
-
-### Discussion Board
-
-- Registered users can start new messages.
-- Display thread titles and content for unregistered users.
-- Maintain consistent style across both pages for ease of navigation.
-
-### Admin Dashboard
-
-- Consolidate admin functions into a single page for ease of use.
-- Enable CRUD (Create, Read, Update, Delete) operations on members, events, and messages.
-- Display an overview at the top for quick reference.
-
-### Register/Log-in Page
-
-- Combine registration and login functions into a single page.
-- Allow access for both unregistered and registered users.
-- Enable further website usage post-registration or log-in.
-
-### Account Management
-
-- Allow registered users to update account information after logging in.
-- Provide options for password update and account deactivation.
-- Implement a logout function for terminating user sessions.
-- Ensure consistency in style and layout with other pages.
-
-## Non-functional Requirements
-
-- Ensure consistent user experience across all pages for both registered and unregistered users.
-- Maintain a visually appealing and intuitive design.
-- Optimize database queries and server-side processing for efficient data retrieval and management.
-- Encrypt sensitive user information, such as passwords, during transmission and storage.
-
----
 
